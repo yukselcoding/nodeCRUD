@@ -18,7 +18,7 @@
   "author": "yukselcoding",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.13",
     "yargs": "^11.0.0"
   }
 }
